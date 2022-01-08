@@ -176,5 +176,11 @@ h3 {
 }
 
 .course-col:hover{
-    background: #e2d1d2;
+    background: #fcf7f7;
+}
+
+@media(max-width: 700px) {
+    .row {
+        flex-direction: column;
+    }
 }
