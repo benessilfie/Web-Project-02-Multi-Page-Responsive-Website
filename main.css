@@ -184,3 +184,10 @@ h3 {
         flex-direction: column;
     }
 }
+
+/* CSS for campus section */
+
+.campus {
+    width: 80%;
+    
+}
