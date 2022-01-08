@@ -204,6 +204,7 @@ h3 {
 
 .campus-col img {
     width: 100%;
+    display: block;
 }
 
 .layer {
@@ -220,7 +221,7 @@ h3 {
     background: rgba(255, 42, 42, 0.7);
 }
 
-.layer h3{
+.layer h3 {
     width: 100%;
     font-weight: 500;
     color: #fff;
@@ -229,4 +230,10 @@ h3 {
     left: 50%;
     transform: translateX(-50%);
     position: absolute;
+    transition: 0.5s;
+}
+
+.layer:hover h3 {
+    bottom: 49%;
+    opacity: 1;
 }
