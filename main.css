@@ -318,7 +318,37 @@ h3 {
 }
 
 
-/*  */
+/* CSS for Call To Action Section */
+
 .cta {
     margin: 100px auto;
+    width: 80%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/banner2.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.cta h1 {
+    color: #fff;
+    margin-bottom: 40px;
+    padding: 0;
+}
+
+.hero-btn2 {
+    color: white;
+    background: #f44336;
+    border-radius: 2px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: .75rem;
+    font-weight: bold;
+    transition: .5s;
+}
+
+.hero-btn2:hover {
+    background: white;
+    color: #f44336;
 }
