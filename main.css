@@ -358,3 +358,17 @@ h3 {
         font-size: 22px;
     }
 }
+
+/* CSS for Footer section */
+
+.footer {
+    width: 100px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.footer h4 {
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight: 600;
+}
