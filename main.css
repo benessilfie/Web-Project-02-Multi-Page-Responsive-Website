@@ -352,3 +352,9 @@ h3 {
     background: white;
     color: #f44336;
 }
+
+@media(max-width: 700px){
+    .cta h1 {
+        font-size: 22px;
+    }
+}
