@@ -1,1 +1,1 @@
-# Web Project02MultiPageResponsiveWebsite
+# WebProject02MultiPageResponsiveWebsite
